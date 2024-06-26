@@ -1,11 +1,11 @@
 <div align="center"> 
   
-# Curso Machine Learning 
+# Resumo do Curso de Machine Learning 
 
 ## Criação: André Aguiar
 
 
-Bem-vindo ao guia de estudos referente ao Curso de Machine Learning na Udemy!
+Bem-vindo ao guia de estudos referente ao Curso de Machine Learning na Udemy ministrado pelo professor Luciano Galdino!
 
 Este repositório contém alguns recursos e materiais utilizados no curso de Machine Learning disponível na Udemy ministrado pelo professor Luciano Galdino. Aqui você encontrará códigos, notebooks Jupyter, conjuntos de dados e outros materiais complementares que poderão ser utilizados no seu dia a dia. 
 
